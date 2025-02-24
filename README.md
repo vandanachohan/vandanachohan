@@ -22,7 +22,6 @@ A passionate **web developer & AI enthusiast**, exploring the latest tech trends
 
 ## 📫 Connect With Me  
 - **GitHub**: [@vandanachohan](https://github.com/vandanachohan)  
-- **Twitter**: [@your_twitter](#) *(Add your handle)*  
 - **LinkedIn**: [Vandana Chohan](https://www.linkedin.com/in/vandana-chohan-0880962b7/)  
 
 ## 😄 Pronouns  
